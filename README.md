@@ -1,1 +1,0 @@
-# LightOJ-Solutions-1116-Ekka-Dokka.cpp
